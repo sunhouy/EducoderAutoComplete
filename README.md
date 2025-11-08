@@ -1,0 +1,2 @@
+# EducoderAutoComplete
+头歌平台作业自动完成脚本，自动答题脚本，解除禁止复制粘贴的限制。基于python的pyautogui和chrome拓展程序，调用deepseek接口实现自动完成头歌平台的编程题目。
